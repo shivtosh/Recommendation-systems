@@ -12,7 +12,7 @@ DATA DESCRIPTION:
 * score_max: highest rating given for the phone
 * source: source from where the rating was taken
 
-Steps and tasks: [ Total Score: 60 points]
+Steps and tasks: 
 1.    Import the necessary libraries and read the provided CSVs as a data frame and perform the below steps.
 • Merge the provided CSVs into one data-frame.
 • Check a few observations and shape of the data-frame.
